@@ -43,4 +43,5 @@
     <icon drawable="@drawable/zeus" package="zeusmalaysia.app" name="ZEUS Oogyaa"/>
     <icon drawable="@drawable/zeus" package="zeusnorway.app" name="ZEUS Norway"/>
     <icon drawable="@drawable/dialer" package="com.android.dialer" name="Phone" />
+    <icon drawable="@drawable/browser" package="org.eu.droid_ng.jellyfish" name="Browser" />
 </icons>
