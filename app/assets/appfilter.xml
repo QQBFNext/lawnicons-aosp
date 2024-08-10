@@ -12365,4 +12365,6 @@
   <item component="ComponentInfo{org.eu.droid_ng.jellyfish/acr.browser.lightning.IncognitoActivity}" drawable="browser" name="Browser" />
   <item component="ComponentInfo{org.eu.droid_ng.jellyfish/acr.browser.lightning.settings.activity.SettingsActivity}" drawable="browser" name="Настройки" />
   <item component="ComponentInfo{org.eu.droid_ng.jellyfish/acr.browser.lightning.reading.ReadingActivity}" drawable="browser" name="(Режим чтения)" />
+  <item component="ComponentInfo{org.blissroms.aboutbliss/org.blissroms.aboutbliss.MainActivity}" drawable="memoria_photo_gallery" name="MainActivity" />
+  <item component="ComponentInfo{org.blissroms.aboutbliss/io.flutter.plugins.urllauncher.WebViewActivity}" drawable="memoria_photo_gallery" name="WebViewActivity" />
 </resources>
